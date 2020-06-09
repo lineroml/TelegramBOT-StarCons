@@ -1,0 +1,20 @@
+¿Qué deseas hacer hoy?
+
+ -- comandos --
+
+allstars - visualiza las estrellas ⭐️
+
+¿Quieres ver algúna constelación?
+Escribe un comando con el nombre de la constelación que desees ver:
+
+boyero 
+casiopea
+cazo
+cygnet
+geminis
+hydra
+osamayor
+osamenor
+
+-- ⭐️ -- disfruta del viaje, Estrellita!
+
